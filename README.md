@@ -1,7 +1,3 @@
-I’m preparing a concise, readable README section based on the actual code in your blockchain sample so the explanations match the implementation.
-
-Read [](file:///Users/appa/Documents/Projects/Python/block/unicoin.py)
-
 ## README-ready explanation for this blockchain demo
 
 ### Project overview
@@ -134,11 +130,3 @@ This script demonstrates the block generation and wallet-signing flow.
 
 ---
 
-If you want, I can also turn this into a more polished README with:
-- a title
-- project description
-- install instructions
-- usage examples
-- architecture section
-- limitations section
-- screenshots or ASCII diagrams.
